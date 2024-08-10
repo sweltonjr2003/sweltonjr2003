@@ -1,21 +1,36 @@
-<p align="right">![](https://komarev.com/ghpvc/?username=your-github-sweltonjr2003&color=lightgrey)</p>
+### Hi there, i'm Swelton Júnior! Welcome to my profile 👋
 
-### Welcome to my profile 👋
+## ![](https://komarev.com/ghpvc/?username=your-github-sweltonjr2003&color=lightgrey)
 
 ---
 
-![My Avatar](https://avatars.githubusercontent.com/u/114576001?s=400&u=c10378e0a8fb4991c55c8421035bbde53147dbc2&v=4)
+I'm a frontend developer
 
 -   🔭 I’m currently working on [DevAholic](https://devaholic.ao)
--   🌱 I’m currently learning **backend development**
-<!--
-**sweltonjr2003/sweltonjr2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   💻 I’m currently learning **backend development**
+-   💬 Ask me about frontend
 
+## My stacks
+
+![Vuejs](https://img.shields.io/badge/vue-lightgreen?style=for-the-badge&logo=vue&logoColor=white)
+
+![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=vue&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=vue&logoColor=white)
+
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Node](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=vue&logoColor=white)
+
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<!--
 Here are some ideas to get you started:
 
 -   👯 I’m looking to collaborate on ...
 -   🤔 I’m looking for help with ...
--   💬 Ask me about ...
 -   📫 How to reach me: ...
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ...

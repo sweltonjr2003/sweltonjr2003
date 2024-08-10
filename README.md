@@ -1,6 +1,6 @@
 ### Hi there, i'm Swelton Júnior! Welcome to my profile 👋
 
-## ![](https://komarev.com/ghpvc/?username=your-github-sweltonjr2003&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=your-github-sweltonjr2003&color=lightgrey)
 
 ---
 

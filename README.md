@@ -12,20 +12,12 @@ I'm a frontend developer
 
 ## My stacks
 
-<div style="display: flex; gap: 10px;">
-    ![Vuejs](https://img.shields.io/badge/vue-lightgreen?style=for-the-badge&logo=vue&logoColor=white)
-
-![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=vue&logoColor=white)
-
-![Laravel](https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=vue&logoColor=white)
-
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Node](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=vue&logoColor=white)
-
-<!-- ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) -->
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/vue-lightgreen?style=for-the-badge&logo=vue&logoColor=white" alt="Vuejs">
+  <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=vue&logoColor=white" alt="Typescript">
+  <img src="https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=vue&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=vue&logoColor=white" alt="Node">
+</p>
 
 <!--
 Here are some ideas to get you started:
